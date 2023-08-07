@@ -1,5 +1,7 @@
 # SweetLiftSalesAnalysis
 
+Sales Opportunity Analysis at Sweet Lift Taxi Company
+
 The project assigned to me during the thirteenth sprint involves Time Series Analysis.
 
 Throughout this sprint, I dived into time series analysis on its key principles including resampling, moving averages, trends, seasonality, and predictive model creation.

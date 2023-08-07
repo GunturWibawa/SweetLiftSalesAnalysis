@@ -1,4 +1,4 @@
-# SweetliftSalesAnalysis
+# SweetLiftSalesAnalysis
 
 The project assigned to me during the thirteenth sprint involves Time Series Analysis.
 
